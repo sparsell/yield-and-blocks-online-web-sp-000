@@ -9,5 +9,3 @@ def hello_t(array)
   else
     puts "Hey! No block was given!"
 end
-
-
